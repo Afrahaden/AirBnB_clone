@@ -1,11 +1,10 @@
 footer {
-    background-color: #00FF00;
     height: 60px;
     width: 100%;
     position: fixed;
     bottom: 0;
-    color: #FFFFFF;
-    border-top: 1px #CCCCCC;
+    color: #000000;
+    border-top: 1px solid #DDDDDD;
     }
 footer p {
     text-align: center;
